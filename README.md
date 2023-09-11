@@ -3,11 +3,24 @@
 >Epic games store
 + ```>observer_``` тыка нет
 +  A Game Of The Thrones: The Board Game Digital Edition тыка нет
-+ we
-+ qw
-+ e
-+ qw
-+ e
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Against All Odds [тык](https://launcher.store.epicgames.com/ru/p/against-all-odds-409105)
++ Alba — A Wildlife Adventure [тык](https://launcher.store.epicgames.com/ru/p/alba-a-wildlife-adventure-93736a)
++ Amnesia: Rebirth [тык](https://launcher.store.epicgames.com/ru/p/amnesia-rebirth)
++ Ancient Enemy [тык](https://launcher.store.epicgames.com/ru/p/ancient-enemy)
++ ARK: Survival Evolved [тык](https://launcher.store.epicgames.com/ru/p/ark)
++ Beyond Blue [тык](https://launcher.store.epicgames.com/ru/p/beyond-blue)
++ Black Book [тык](https://launcher.store.epicgames.com/ru/p/black-book)
++ Black Widow: Recharged [тык](https://launcher.store.epicgames.com/ru/p/black-widow-recharged)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
 
 >Steam
 + Helltaker [тык](https://store.steampowered.com/app/1289310/Helltaker/)
