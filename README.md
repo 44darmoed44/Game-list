@@ -1,8 +1,8 @@
 Список игр
 
 >Epic games store
-+ asdasd
-+ qweq
++ ```>observer_``` тыка нет
++  A Game Of The Thrones: The Board Game Digital Edition тыка нет
 + we
 + qw
 + e
