@@ -16,11 +16,17 @@
 + Brawlhalla [тык](https://launcher.store.epicgames.com/ru/p/brawlhalla)
 + Breathedge [тык](https://launcher.store.epicgames.com/ru/p/breathedge)
 + Brothers: A Tale of Two Sons [тык](https://launcher.store.epicgames.com/ru/p/brothers-a-tale-of-two-sons)
-+ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
-+ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
-+ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
-+ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
-+ Adios [тык](https://launcher.store.epicgames.com/ru/p/adios-b378b4)
++ Call of the Sea тыка нет
++ Car Mechanic Simulator 2018 [тык](https://launcher.store.epicgames.com/ru/p/car-mechanic-simulator-2018)
++ Cave Story+ [тык](https://launcher.store.epicgames.com/ru/p/cave-story-plus)
++ Cave Story®'s Secret Santa тыка нет
++ Celeste [тык](https://launcher.store.epicgames.com/ru/p/celeste)
++ Centipede: Recharged [тык](https://launcher.store.epicgames.com/ru/p/centipede-recharged)
++ Cities: Skylines [тык](https://launcher.store.epicgames.com/ru/p/cities-skylines)
++ City of Brass [тык](https://launcher.store.epicgames.com/ru/p/city-of-brass)
++ Celeste [тык](https://launcher.store.epicgames.com/ru/p/celeste)
++ Celeste [тык](https://launcher.store.epicgames.com/ru/p/celeste)
+
 
 >Steam
 + Helltaker [тык](https://store.steampowered.com/app/1289310/Helltaker/)
@@ -41,7 +47,7 @@
 + Halo Infinite [тык](https://store.steampowered.com/app/1240440/Halo_Infinite/)
 + Hollow Knight [тык](https://store.steampowered.com/app/367520/Hollow_Knight/)
 + Left 4 Dead 2 [тык](https://store.steampowered.com/app/550/Left_4_Dead_2/)
-+ Metro: Last Light Complete Edition [тык](https://store.steampowered.com/app/287390/Metro_Last_Light_Redux/)
++ Metro: Last Light Complete Edition тыка нет
 + Portal 1 и 2 [тык первый](https://store.steampowered.com/app/400/Portal/) ----- [тык второй](https://store.steampowered.com/app/620/Portal_2/)
 + Project Zomboid [тык](https://store.steampowered.com/app/108600/Project_Zomboid/)
 + Risk of Rain 2 [тык](https://store.steampowered.com/app/632360/Risk_of_Rain_2/)
