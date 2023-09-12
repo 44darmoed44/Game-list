@@ -52,7 +52,7 @@
 + Project Zomboid [тык](https://store.steampowered.com/app/108600/Project_Zomboid/)
 + Risk of Rain 2 [тык](https://store.steampowered.com/app/632360/Risk_of_Rain_2/)
 + Scrap Mechanic [тык](https://store.steampowered.com/app/387990/Scrap_Mechanic/)
-+ Selene ~Apoptosis~ [тык](https://store.steampowered.com/app/1398210/Selene_Apoptosis/)
++ Selene ~ Apoptosis ~ [тык](https://store.steampowered.com/app/1398210/Selene_Apoptosis/)
 + Shadow Warrior 1, 2 и 3 [тык первый](https://store.steampowered.com/app/233130/Shadow_Warrior/) ----- [тык второй](https://store.steampowered.com/app/324800/Shadow_Warrior_2/) ----- [тык третий](https://store.steampowered.com/app/1036890/Shadow_Warrior_3_Definitive_Edition/)
 + Styx: Master of Shadows [тык](https://store.steampowered.com/app/242640/Styx_Master_of_Shadows/)
 + Styx: Shards of Darkness [тык](https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/)
