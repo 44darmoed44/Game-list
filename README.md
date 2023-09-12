@@ -91,9 +91,9 @@
 + Midnight Ghost Hunt [тык](https://launcher.store.epicgames.com/ru/p/midnight-ghost-hunt)
 + MORDHAU [тык](https://launcher.store.epicgames.com/ru/p/mordhau)
 + Mortal Shell [тык](https://launcher.store.epicgames.com/ru/p/mortal-shell)
-+  [тык]()
-+  [тык]()
-+  [тык]()
++ Murder by Numbers [тык](https://launcher.store.epicgames.com/ru/p/murder-by-numbers)
++ Never Alone (Kisima Ingitchuna) [тык](https://launcher.store.epicgames.com/ru/p/never-alone-kisima-ingitchuna)
++ Neverwinter [тык](https://launcher.store.epicgames.com/ru/p/neverwinter)
 +  [тык]()
 
 
