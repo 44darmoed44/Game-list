@@ -36,7 +36,7 @@
 + DEMON'S TILT [тык](https://launcher.store.epicgames.com/ru/p/demons-tilt)
 + Destiny 2 [тык](https://launcher.store.epicgames.com/ru/p/destiny-2)
 + Divine Knockout (DKO) [тык](https://launcher.store.epicgames.com/ru/p/divine-knockout)
-+ DDOM 64 тыка нет
++ DOOM 64 тыка нет
 + Duskers [тык](https://launcher.store.epicgames.com/ru/p/duskers-672fdc)
 + Enter the Gungeon [тык](https://launcher.store.epicgames.com/ru/p/enter-the-gungeon)
 + Epistory - Typing Chronicles [тык](https://launcher.store.epicgames.com/ru/p/epistory-typing-chronicles-445794)
@@ -50,6 +50,7 @@
 + Fallout 2 A Post Nuclear Role Playing Game тыка нет
 + Fallout 3 тыка нет
 + Fallout Tactics: Brotherhood of Steel тыка нет
++ Fallout: New Vegas [тык](https://launcher.store.epicgames.com/ru/p/fallout-new-vegas)
 + Fault: Elder Orb тыка нет
 + Filament [тык](https://launcher.store.epicgames.com/ru/p/filament-332a92)
 + First Class Trouble [тык](https://launcher.store.epicgames.com/ru/p/first-class-trouble)
