@@ -111,6 +111,7 @@
 + Disco Elysium - The Final Cut [тык](https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/)
 + Don't Starve Together [тык](https://store.steampowered.com/app/322330/Dont_Starve_Together/)
 + DR LIVESEY ROM AND DEATH EDITION [тык](https://store.steampowered.com/app/2181930/DR_LIVESEY_ROM_AND_DEATH_EDITION/)
++ For Honor тыка нет
 + Forts [тык](https://store.steampowered.com/app/410900/Forts/)
 + Garry's Mod [тык](https://store.steampowered.com/app/4000/Garrys_Mod/)
 + Geometry Dash [тык](https://store.steampowered.com/app/322170/Geometry_Dash/)
@@ -128,6 +129,7 @@
 + Styx: Shards of Darkness [тык](https://store.steampowered.com/app/355790/Styx_Shards_of_Darkness/)
 + Team Fortress 2 [тык](https://store.steampowered.com/app/440/Team_Fortress_2/)
 + Terraria [тык](https://store.steampowered.com/app/105600/Terraria/)
++ TitanFall 2 тыка нет
 + TOXIKK™ [тык](https://store.steampowered.com/app/324810/TOXIKK/)
 + Vangers [тык](https://store.steampowered.com/app/264080/Vangers/)
 + Warhammer: Vermintide 2 [тык](https://store.steampowered.com/app/552500/Warhammer_Vermintide_2/)
